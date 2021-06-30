@@ -1,0 +1,37 @@
+https://recursospython.com/guias-y-manuales/calcular-tiempo-de-ejecucion/#:~:text=De%20forma%20est%C3%A1ndar%2C%20Python%20permite,resulta%20muy%20f%C3%A1cil%20de%20implementar.&text=La%20funci%C3%B3n%20timeit.
+https://laingenieria.info/questions/29243/como-evaluo-sistematicamente-el-rendimiento-de-mi-script-de
+https://jarroba.com/6-formas-mejorar-rendimiento-python/ 
+cython: https://www.analyticslane.com/2019/09/30/aumentar-el-rendimiento-de-python-con-cython/
+
+
+
+request https://docs.python-requests.org/es/latest/index.html
+
+
+
+* Medir con time funciones especificas
+* usar profile para medir el tiempo del script en general.
+* Buenas practicas de desarrollo. Buscar metodos nativos de python en reemplazo de tantas
+  estructuras de control.
+
+
+
+
+[16:17] Lucas Sgandurra
+    
+pip install requests
+​[16:21] Lucas Sgandurra
+    
+https://docs.python-requests.org/es/latest/
+​[16:58] Lucas Sgandurra
+    
+url: https://10.100.107.225
+​[16:58] Lucas Sgandurra
+    
+username: apitest
+​[16:58] Lucas Sgandurra
+    
+pass
+​[16:58] Lucas Sgandurra
+    
+Cyberark1!
